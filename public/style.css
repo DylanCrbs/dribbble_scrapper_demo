@@ -96,8 +96,6 @@ background-size: cover;
 
 .cta{
   padding: 30px;
-}
-
-.cta {
-  background-color: rgba(16,20,79,0.3);
+  background-color: rgba(16,20,79);
+  font-color: white;
 }
