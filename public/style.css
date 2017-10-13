@@ -53,7 +53,7 @@ border-radius: 7px;
 }
 
 .card h1 {
-  color: pink
+  color: rgb(16,20,79);
 }
 
 .card p {
@@ -95,14 +95,14 @@ background-size: cover;
 
 .cta{
   padding: 30px;
-  background-color: rgb(16,20,79);
+  background-color: rgba(16,20,79,0.5);
 }
 
 .cta h2{
   color : white;
 }
 
-cta p{
+.cta p{
   color : white;
 }
 
