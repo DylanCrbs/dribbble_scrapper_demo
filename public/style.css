@@ -4,20 +4,24 @@ body{
   font-size: 25px;
   font-family: 'Roboto', sans-serif;
 }
+
 h1{
   font-family: 'Manuale', serif;
   color: black;  
   font-weight: bolder;
   font-size: 100px;
 }
+
 h2 {
   font-family: 'Manuale', serif;
   font-weight: bolder;
   font-size: 20px;
 }
+
 a {
   color: grey;
 }
+
 a:hover {
   text-decoration: none;
   color: purple;
@@ -84,7 +88,7 @@ background-size: cover;
 }
 
 .container {
-  color: red
+  color: (16,20,79);
 }
 
 .picto{
