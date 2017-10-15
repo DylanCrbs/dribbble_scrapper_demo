@@ -87,10 +87,6 @@ background-size: cover;
   font-color: white;
 }
 
-.container {
-  color: rgb(16,20,79);
-}
-
 .picto{
     display: block;
     margin-left: auto;
@@ -99,7 +95,7 @@ background-size: cover;
 
 .cta{
   padding: 30px;
-  background-color: rgb(16,20,79);
+  background-color: rgb(16,20,78);
 }
 
 .cta h2{
