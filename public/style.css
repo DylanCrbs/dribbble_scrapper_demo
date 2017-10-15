@@ -54,6 +54,7 @@ text-align: center;
 font-color : black;
 border: 3px solid rgb(150,150,150);
 padding: 5px;
+padding-bottom: 10px;
 border-radius: 7px;
 }
 
@@ -97,6 +98,7 @@ background-size: cover;
 #dribble{
   padding: 30px;
   background-color: rgb(16,20,79);
+  background-image: url("images/espace.jpg");
 }
 
 .cta h2{
