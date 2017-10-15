@@ -96,7 +96,7 @@ background-size: cover;
 
 #dribble{
   padding: 30px;
-  background-color: white;
+  background-color: rgb(16,20,79);
 }
 
 .cta h2{
@@ -104,6 +104,6 @@ background-size: cover;
 }
 
 .cta p{
-  color : red;
+  color : white;
 }
 
