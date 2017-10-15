@@ -9,7 +9,7 @@ h1{
   font-family: 'Manuale', serif;
   color: black;  
   font-weight: bolder;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 h2 {
@@ -98,7 +98,7 @@ background-size: cover;
 #dribble{
   padding: 30px;
   background-color: rgb(16,20,79);
-  background-image: url("images/espace.jpg");
+  background-image: url("images/espace2.jpg");
 }
 
 .cta h2{
