@@ -89,17 +89,18 @@ background-size: cover;
 
 .container {
   color: rgb(16,20,79);
+  padding-bottom: 10px;
 }
 
 .picto{
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
 }
 
 .cta{
   padding: 30px;
-  background-color: rgba(16,20,79,0.5);
+  background-color: rgb(16,20,79);
 }
 
 .cta h2{
