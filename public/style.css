@@ -109,3 +109,6 @@ background-size: cover;
   color : white;
 }
 
+#formbanner {
+  border-top: 3px solid rgb(16,20,79);
+}
