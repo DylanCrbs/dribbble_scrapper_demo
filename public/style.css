@@ -110,7 +110,7 @@ background-size: cover;
 }
 
 #formbanner {
-  border-top: 3px solid rgb(16,20,79);
-  border-width: cover;
+  border-top: 2px solid rgb(16,20,79);
+  border-width: 100%;
   padding : 35px;
 }
